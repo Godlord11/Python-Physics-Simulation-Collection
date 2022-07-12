@@ -1,0 +1,3 @@
+The presented program can be executed directly without any installation process, if any installation permission is asked please deny it immidaitely for security measures.
+
+Please do not Delete or modify the "Assets" folder otherwise the product will not work, upon accidental deletion of any file, Please check the Recycle Bin of your windows device and restore the accidently deleted files.
